@@ -1,5 +1,3 @@
-Static Website in Docker
-
 This project shows how to host a simple static website using Docker and Nginx.
 
 What you need before starting:
