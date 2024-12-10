@@ -18,4 +18,4 @@ To view the website go to:
 
 http://localhost:8080
 
-Note: other won't see your website unless you publish it somewhere and get a URL (unless you wanna keep your computer ON day and night)
+Note: other won't see your website unless you publish it somewhere and get a URL (unless you wanna keep your computer ON day and night and run it locally)
