@@ -1,18 +1,22 @@
-# Static Website in Docker
+Static Website in Docker
 
-This project demonstrates hosting a simple static website using Docker and Nginx.
+This project shows how to host a simple static website using Docker and Nginx.
 
-## Prerequisites
-- Docker installed on your machine.
+What you need before starting:
 
-## Build the Docker Image
-Run the following command in the project directory:
+    Docker must be installed on your computer.
 
+How to build the Docker image:
+Go to the project folder and run this command:
 
-## Run the Docker Container
-Run the following command:
+docker build -t static-website .
 
+How to run the Docker container:
+Run this command:
 
-## Access the Website
-Open your web browser and navigate to:
+docker run -d -p 8080:80 static-website
 
+How to view the website:
+Open your web browser and go to:
+
+http://localhost:8080
