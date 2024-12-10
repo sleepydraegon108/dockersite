@@ -52,13 +52,3 @@ By default, the website is only accessible on your local machine. To make it pub
 <blockquote>
   <strong>⚠ Note:</strong> Running it locally means the website will only be live while your computer is on and the Docker container is running.
 </blockquote>
-
----
-
-## 📄 License
-
-Feel free to use and modify this project. Contributions are welcome! 🌟
-
----
-
-### Happy Hosting! 🖥️✨
